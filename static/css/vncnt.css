@@ -40,7 +40,6 @@
 
     --button-primary-color: white;
   }
-  
   img.value-img {
     filter: invert(0.8);
   }
@@ -51,6 +50,7 @@
   img:hover {
     opacity: 1;
   }
+
 }
 
 h1.h3-like, h2.h3-like {
@@ -79,9 +79,11 @@ p.reset-margin {
 
 .avatar {
   width: 20rem;
+/*
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%; 
+*/
   max-width: 60%;
   box-sizing: border-box;
   display: block;
